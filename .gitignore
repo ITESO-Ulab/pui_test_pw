@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -103,6 +104,8 @@ dist
 # TernJS port file
 .tern-port
 
+=======
+>>>>>>> e02ff52fdf7fafc8eb3e2798b5fcd23e7e8b2ddb
 node_modules/
 /test-results/
 /playwright-report/
